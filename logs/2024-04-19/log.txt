@@ -1,0 +1,69 @@
+[90m[19-04-2024 09:05:23.145][0m[90m[/user][0m[90m ----------------------------------------------------[0m
+[90m[19-04-2024 09:05:23.154][0m[90m[/user][0m[36m                     REQUEST                     [0m
+[90m[19-04-2024 09:05:23.156][0m[90m[/user][0m[36m METHOD:	GET[0m
+[90m[19-04-2024 09:05:23.159][0m[90m[/user][0m[36m URL:   	/api/user[0m
+[90m[19-04-2024 09:05:23.160][0m[90m[/user][0m[36m HEADERS:[0m
+[90m[19-04-2024 09:05:23.161][0m[90m[/user][0m[36m - host: [37mlocalhost:3000[36m[0m
+[90m[19-04-2024 09:05:23.162][0m[90m[/user][0m[36m - user-agent: [37mMozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0[36m[0m
+[90m[19-04-2024 09:05:23.163][0m[90m[/user][0m[36m - accept: [37mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8[36m[0m
+[90m[19-04-2024 09:05:23.164][0m[90m[/user][0m[36m - accept-language: [37mes-MX,es;q=0.8,en-US;q=0.5,en;q=0.3[36m[0m
+[90m[19-04-2024 09:05:23.165][0m[90m[/user][0m[36m - accept-encoding: [37mgzip, deflate, br[36m[0m
+[90m[19-04-2024 09:05:23.166][0m[90m[/user][0m[36m - connection: [37mkeep-alive[36m[0m
+[90m[19-04-2024 09:05:23.167][0m[90m[/user][0m[36m - cookie: [37mWebstorm-a7be70d3=12270221-5f67-479e-9662-31b3981ae3a9[36m[0m
+[90m[19-04-2024 09:05:23.168][0m[90m[/user][0m[36m - upgrade-insecure-requests: [37m1[36m[0m
+[90m[19-04-2024 09:05:23.168][0m[90m[/user][0m[36m - sec-fetch-dest: [37mdocument[36m[0m
+[90m[19-04-2024 09:05:23.169][0m[90m[/user][0m[36m - sec-fetch-mode: [37mnavigate[36m[0m
+[90m[19-04-2024 09:05:23.170][0m[90m[/user][0m[36m - sec-fetch-site: [37mnone[36m[0m
+[90m[19-04-2024 09:05:23.170][0m[90m[/user][0m[36m - sec-fetch-user: [37m?1[36m[0m
+[90m[19-04-2024 09:05:23.171][0m[90m[/user][0m[36m [0m
+[90m[19-04-2024 09:05:23.171][0m[90m[/user][0m[36m BODY:[0m
+[90m[19-04-2024 09:05:23.172][0m[90m[/user][0m[36m {}[0m
+[90m[19-04-2024 09:05:23.172][0m[90m[/user][0m[90m ----------------------------------------------------[0m
+[90m[19-04-2024 09:05:23.184][0m[90m[/user][0m[95m                     RESPONSE                     [0m
+[90m[19-04-2024 09:05:23.185][0m[90m[/user][0m[95m STATUS: [95m[200][0m
+[90m[19-04-2024 09:05:23.185][0m[90m[/user][0m[95m BODY:[0m
+[90m[19-04-2024 09:05:23.186][0m[90m[/user][0m[95m {"Success":true,"Message":"Success getting data","Response":[]}[0m
+[90m[19-04-2024 09:10:40.623][0m[90m[/user][0m[90m ----------------------------------------------------[0m
+[90m[19-04-2024 09:10:40.632][0m[90m[/user][0m[36m                     REQUEST                     [0m
+[90m[19-04-2024 09:10:40.633][0m[90m[/user][0m[36m METHOD:	POST[0m
+[90m[19-04-2024 09:10:40.634][0m[90m[/user][0m[36m URL:   	/api/user[0m
+[90m[19-04-2024 09:10:40.635][0m[90m[/user][0m[36m HEADERS:[0m
+[90m[19-04-2024 09:10:40.636][0m[90m[/user][0m[36m - host: [37mlocalhost:3000[36m[0m
+[90m[19-04-2024 09:10:40.637][0m[90m[/user][0m[36m - user-agent: [37mcurl/8.4.0[36m[0m
+[90m[19-04-2024 09:10:40.638][0m[90m[/user][0m[36m - accept: [37m*/*[36m[0m
+[90m[19-04-2024 09:10:40.639][0m[90m[/user][0m[36m - content-type: [37mapplication/json[36m[0m
+[90m[19-04-2024 09:10:40.639][0m[90m[/user][0m[36m - content-length: [37m164[36m[0m
+[90m[19-04-2024 09:10:40.640][0m[90m[/user][0m[36m [0m
+[90m[19-04-2024 09:10:40.640][0m[90m[/user][0m[36m BODY:[0m
+[90m[19-04-2024 09:10:40.642][0m[90m[/user][0m[36m {"Firstname":"Jonathan","Middlename":"Leonardo","Lastname":"Nieto Bustamante","PhoneNumber":"4111008552","Email":"jonathanleonardonb@gmail.com"}[0m
+[90m[19-04-2024 09:10:40.642][0m[90m[/user][0m[90m ----------------------------------------------------[0m
+[90m[19-04-2024 09:10:40.685][0m[90m[/user][0m[95m                     RESPONSE                     [0m
+[90m[19-04-2024 09:10:40.686][0m[90m[/user][0m[95m STATUS: [95m[200][0m
+[90m[19-04-2024 09:10:40.687][0m[90m[/user][0m[95m BODY:[0m
+[90m[19-04-2024 09:10:40.688][0m[90m[/user][0m[95m {"Success":true,"Message":"Success saving data","Response":{"Firstname":"Jonathan","Middlename":"Leonardo","Lastname":"Nieto Bustamante","PhoneNumber":"4111008552","Email":"jonathanleonardonb@gmail.com","_id":"66228970d0833068cde55857","__v":0}}[0m
+[90m[19-04-2024 09:10:55.540][0m[90m[/user][0m[90m ----------------------------------------------------[0m
+[90m[19-04-2024 09:10:55.551][0m[90m[/user][0m[36m                     REQUEST                     [0m
+[90m[19-04-2024 09:10:55.552][0m[90m[/user][0m[36m METHOD:	GET[0m
+[90m[19-04-2024 09:10:55.553][0m[90m[/user][0m[36m URL:   	/api/user[0m
+[90m[19-04-2024 09:10:55.554][0m[90m[/user][0m[36m HEADERS:[0m
+[90m[19-04-2024 09:10:55.555][0m[90m[/user][0m[36m - host: [37mlocalhost:3000[36m[0m
+[90m[19-04-2024 09:10:55.556][0m[90m[/user][0m[36m - user-agent: [37mMozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0[36m[0m
+[90m[19-04-2024 09:10:55.557][0m[90m[/user][0m[36m - accept: [37mtext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8[36m[0m
+[90m[19-04-2024 09:10:55.558][0m[90m[/user][0m[36m - accept-language: [37mes-MX,es;q=0.8,en-US;q=0.5,en;q=0.3[36m[0m
+[90m[19-04-2024 09:10:55.558][0m[90m[/user][0m[36m - accept-encoding: [37mgzip, deflate, br[36m[0m
+[90m[19-04-2024 09:10:55.559][0m[90m[/user][0m[36m - connection: [37mkeep-alive[36m[0m
+[90m[19-04-2024 09:10:55.560][0m[90m[/user][0m[36m - cookie: [37mWebstorm-a7be70d3=12270221-5f67-479e-9662-31b3981ae3a9[36m[0m
+[90m[19-04-2024 09:10:55.560][0m[90m[/user][0m[36m - upgrade-insecure-requests: [37m1[36m[0m
+[90m[19-04-2024 09:10:55.561][0m[90m[/user][0m[36m - sec-fetch-dest: [37mdocument[36m[0m
+[90m[19-04-2024 09:10:55.561][0m[90m[/user][0m[36m - sec-fetch-mode: [37mnavigate[36m[0m
+[90m[19-04-2024 09:10:55.562][0m[90m[/user][0m[36m - sec-fetch-site: [37mnone[36m[0m
+[90m[19-04-2024 09:10:55.563][0m[90m[/user][0m[36m - sec-fetch-user: [37m?1[36m[0m
+[90m[19-04-2024 09:10:55.563][0m[90m[/user][0m[36m - if-none-match: [37mW/"3f-0Pz5jNA/h47NlIFecAf3lS3DShY"[36m[0m
+[90m[19-04-2024 09:10:55.564][0m[90m[/user][0m[36m [0m
+[90m[19-04-2024 09:10:55.565][0m[90m[/user][0m[36m BODY:[0m
+[90m[19-04-2024 09:10:55.566][0m[90m[/user][0m[36m {}[0m
+[90m[19-04-2024 09:10:55.567][0m[90m[/user][0m[90m ----------------------------------------------------[0m
+[90m[19-04-2024 09:10:55.593][0m[90m[/user][0m[95m                     RESPONSE                     [0m
+[90m[19-04-2024 09:10:55.594][0m[90m[/user][0m[95m STATUS: [95m[200][0m
+[90m[19-04-2024 09:10:55.595][0m[90m[/user][0m[95m BODY:[0m
+[90m[19-04-2024 09:10:55.596][0m[90m[/user][0m[95m {"Success":true,"Message":"Success getting data","Response":[{"_id":"66228970d0833068cde55857","Firstname":"Jonathan","Middlename":"Leonardo","Lastname":"Nieto Bustamante","PhoneNumber":"4111008552","Email":"jonathanleonardonb@gmail.com","__v":0}]}[0m

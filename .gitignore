@@ -1,2 +1,4 @@
 .idea/
 node_modules/
+logs/
+user_database_mongo/
